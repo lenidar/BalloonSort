@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonSort", "BalloonSort\BalloonSort.csproj", "{844E3FBA-C25E-427F-858C-D6EE12BE63F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844E3FBA-C25E-427F-858C-D6EE12BE63F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844E3FBA-C25E-427F-858C-D6EE12BE63F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844E3FBA-C25E-427F-858C-D6EE12BE63F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844E3FBA-C25E-427F-858C-D6EE12BE63F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8446D1-9B6B-4F6C-8235-DD7B4432A021}
+	EndGlobalSection
+EndGlobal
